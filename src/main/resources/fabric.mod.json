@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "medigun",
+  "version": "${version}",
+  "name": "Medi Gun",
+  "description": "TF2-style Medi Gun: heal beam, ÜberCharge, GeckoLib animated model.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": { "main": ["com.example.medigun.MediGunMod"] },
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*",
+    "geckolib": ">=4.4.9"
+  }
+}

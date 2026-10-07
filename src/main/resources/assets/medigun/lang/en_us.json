@@ -1,0 +1,5 @@
+{
+  "item.medigun.medigun": "Medi Gun",
+  "item.medigun.medigun.charge": "ÜberCharge: %s%%",
+  "tooltip.medigun.hint": "Hold Right-Click: heal | Sneak + Right-Click at 100%: ÜberCharge"
+}
